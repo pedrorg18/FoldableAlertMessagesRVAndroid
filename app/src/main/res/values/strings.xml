@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoldableMenuTest</string>
+
+    <string name="message_d_erreur">Message d\'erreur</string>
+</resources>
